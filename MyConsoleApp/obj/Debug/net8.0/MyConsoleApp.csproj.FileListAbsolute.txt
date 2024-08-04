@@ -1,0 +1,15 @@
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\dev\projects\Learn C# Beginner\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
