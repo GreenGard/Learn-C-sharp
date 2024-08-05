@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{5267245D-5BE2-402F-AB6B-398C7769BDD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGame", "NumberGuessingGame\NumberGuessingGame.csproj", "{7632D032-B864-4994-AB1C-0A952639CC09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5267245D-5BE2-402F-AB6B-398C7769BDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5267245D-5BE2-402F-AB6B-398C7769BDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5267245D-5BE2-402F-AB6B-398C7769BDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7632D032-B864-4994-AB1C-0A952639CC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7632D032-B864-4994-AB1C-0A952639CC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7632D032-B864-4994-AB1C-0A952639CC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7632D032-B864-4994-AB1C-0A952639CC09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
