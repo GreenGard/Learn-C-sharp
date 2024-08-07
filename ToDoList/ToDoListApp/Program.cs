@@ -7,18 +7,25 @@ namespace ToDoListApp
     {
         static void Main(string[] args)
         {
-            List<string> tasks = new List<string>(); // En lista av strängar
+            string task;
+            List<string> toDoList = new List<string>(); 
             
-            // Lägg till några uppgifter
-            tasks.Add("Simma");
-            tasks.Add("Springa");
-            tasks.Add("Leka");
+            Console.WriteLine("Madelenes To Do List");
+            
+            Console.WriteLine("Please add new task");
+            
+            task = Console.ReadLine();
+         
+            toDoList.Add(task);
+           
 
-            // Visa uppgifterna
-            foreach (string task in tasks)
+            
+            foreach (string toDoes in toDoList)
             {
                 Console.WriteLine(task);
             }
+
+            Console.ReadKey();
         }
     }
 }
