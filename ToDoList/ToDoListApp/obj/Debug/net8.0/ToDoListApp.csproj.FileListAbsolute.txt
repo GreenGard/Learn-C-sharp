@@ -1,0 +1,15 @@
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\bin\Debug\net8.0\ToDoListApp.exe
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\bin\Debug\net8.0\ToDoListApp.deps.json
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\bin\Debug\net8.0\ToDoListApp.runtimeconfig.json
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\bin\Debug\net8.0\ToDoListApp.dll
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\bin\Debug\net8.0\ToDoListApp.pdb
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfo.cs
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.sourcelink.json
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
+C:\dev\projects\Learn C# Beginner\ToDoList\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
