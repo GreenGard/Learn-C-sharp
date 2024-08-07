@@ -7,22 +7,23 @@ namespace ToDoListApp
     {
         static void Main(string[] args)
         {
-            string task;
-            List<string> toDoList = new List<string>(); 
-            
-            Console.WriteLine("Madelenes To Do List");
-            
-            Console.WriteLine("Please add new task");
-            
-            task = Console.ReadLine();
-         
-            toDoList.Add(task);
-           
+            int taskCount = 0;
+            List<string> toDoList = new List<string>();
 
-            
+            Console.WriteLine("Madelenes To Do List");
+            while (taskCount < 5)
+            {
+                Console.WriteLine("Please add a new task (max 5):");
+                string task = Console.ReadLine();
+                toDoList.Add(task);
+                Console.WriteLine("Task count: " + taskCount);
+                taskCount++;
+            }
+
+            Console.WriteLine("Madelenes tasks:");
             foreach (string toDoes in toDoList)
             {
-                Console.WriteLine(task);
+                Console.WriteLine(toDoes); 
             }
 
             Console.ReadKey();
